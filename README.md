@@ -15,7 +15,7 @@ During testing, the program used a Vercel AI gateway API key provided by Wild Dy
 
 ## parse_syllabus.py
 
-For this task, I was given a Notion link containing tables for the P3 and P4 syllabi. The purpose of `parse_syllabus.py` is to parse those tables into a json file.
+For this task, I was given a [Notion link](https://bramble-century-072.notion.site/Syllabus-31913c0ea6608055ac51dd3fca4e4d7c) containing tables for the P3 and P4 syllabi. The purpose of `parse_syllabus.py` is to parse those tables into a json file.
 
 First, copy the tables into text files. The text file for the P3 syllabus table should be named `P3_syllabus.txt` and the file for the P4 syllabus table should be named `P4_syllabus.txt`. Place the files in the `data` folder.
 
