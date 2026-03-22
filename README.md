@@ -1,7 +1,7 @@
 # Math Question Classifier
 
 This is a command line program that uses OpenAI's GPT-5.2 model to classify math questions.
-It takes in an input, the math question, and refers to a syllabus.json to predict what the `learning outcome`, `strand`, `sub-strand`, `topic` and `loId` of that question is.
+It takes in an input, the math question, and refers to a syllabus.json to predict what the `learning outcome`, `strand`, `sub-strand`, `topic`, `ref no.` and `loId` of that question is.
 
 There are 2 main parts to this program:
 1. parse_syllabus.py
@@ -30,11 +30,12 @@ Taking a look inside, the json has a long list of items in the following format:
     "strand": "",  
     "subStrand": "",  
     "topic": "",  
+    "ref": "",  
     "learningOutcome": "",  
     "loId": ""  
 }
 
-As can be seen, each item corresponds to each learning outcome in the syllabus tables. They also contain the Strand, Sub-Strand, Topic and loId associated with that learning outcome.
+As can be seen, each item corresponds to each learning outcome in the syllabus tables. They also contain the Strand, Sub-Strand, Topic, Ref and loId associated with that learning outcome.
 
 This is the expected output format to an input math question by the classification engine. As such, parsing the syllabus into a json will make it easier for the model to output the correct format later. It is essentially giving the model a list of possible "answers" to choose from.
 
@@ -61,7 +62,9 @@ The program prints the following to the terminal:
 
 ![alt text](images/image-2.png)
 
-Finally, at the end, the overall accuracy is printed. In my test run of the program, the model predicted correctly for Strand for 95% of all questions, predicted correctly Sub-Strand for 97% of all questions, predicted correctly for Topic for 74% of all questions and predicted correctly for Learning Outcome for 58% of all questions.
+Finally, at the end, the overall accuracy is printed. In my test run of the program, the model predicted correctly for Strand for 94% of all questions, predicted correctly Sub-Strand for 96% of all questions, predicted correctly for Topic for 72% of all questions, predicted correctly for Ref for 61% of all questions, predicted correctly for Learning Outcome for 58% of all questions and predicted correctly for loId for 59% of all questions.
+
+Since Learning Outcomes are a subset of Topics, Topics are a subset of Sub-Strands and Sub-strands are a subset of Strands, it stands to reason that the model has a higher chance of guessing the latter ones correctly over the former ones.
 
 ## Disclaimer
 

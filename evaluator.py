@@ -1,7 +1,7 @@
 def evaluate(predictions, ground_truths):
     total = len(predictions)
 
-    levels = ["strand", "subStrand", "topic", "learningOutcome", "loId"]
+    levels = ["strand", "subStrand", "topic", "ref", "learningOutcome", "loId"]
 
     correct_counts = {level: 0 for level in levels}
 

@@ -3,6 +3,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 10 000",
+        "ref": "1.1.1",
         "learningOutcome": "counting in hundreds/thousands",
         "loId": "P3:WHOLE NUMBERS:1.1.1"
     },
@@ -10,6 +11,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 10 000",
+        "ref": "1.1.2",
         "learningOutcome": "number notation, representations and place values (thousands, hundreds, tens, ones)",
         "loId": "P3:WHOLE NUMBERS:1.1.2"
     },
@@ -17,6 +19,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 10 000",
+        "ref": "1.1.3",
         "learningOutcome": "reading and writing numbers in numerals and in words",
         "loId": "P3:WHOLE NUMBERS:1.1.3"
     },
@@ -24,6 +27,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 10 000",
+        "ref": "1.1.4",
         "learningOutcome": "comparing and ordering numbers",
         "loId": "P3:WHOLE NUMBERS:1.1.4"
     },
@@ -31,6 +35,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 10 000",
+        "ref": "1.1.5",
         "learningOutcome": "patterns in number sequences",
         "loId": "P3:WHOLE NUMBERS:1.1.5"
     },
@@ -38,6 +43,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Addition and Subtraction",
+        "ref": "1.2.1",
         "learningOutcome": "addition and subtraction algorithms (up to 4 digits)",
         "loId": "P3:WHOLE NUMBERS:1.2.1"
     },
@@ -45,6 +51,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Addition and Subtraction",
+        "ref": "1.2.2",
         "learningOutcome": "mental calculation involving addition and subtraction of two 2-digit numbers",
         "loId": "P3:WHOLE NUMBERS:1.2.2"
     },
@@ -52,6 +59,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Multiplication and Division",
+        "ref": "1.3.1",
         "learningOutcome": "multiplication tables of 6, 7, 8 and 9",
         "loId": "P3:WHOLE NUMBERS:1.3.1"
     },
@@ -59,6 +67,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Multiplication and Division",
+        "ref": "1.3.2",
         "learningOutcome": "multiplying and dividing within the multiplication tables",
         "loId": "P3:WHOLE NUMBERS:1.3.2"
     },
@@ -66,6 +75,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Multiplication and Division",
+        "ref": "1.3.3",
         "learningOutcome": "division with remainder",
         "loId": "P3:WHOLE NUMBERS:1.3.3"
     },
@@ -73,6 +83,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Multiplication and Division",
+        "ref": "1.3.4",
         "learningOutcome": "multiplication and division algorithms (up to 3 digits by 1 digit)",
         "loId": "P3:WHOLE NUMBERS:1.3.4"
     },
@@ -80,6 +91,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Multiplication and Division",
+        "ref": "1.3.5",
         "learningOutcome": "mental calculation involving multiplication and division within multiplication tables",
         "loId": "P3:WHOLE NUMBERS:1.3.5"
     },
@@ -87,6 +99,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Equivalent fractions",
+        "ref": "2.1.1",
         "learningOutcome": "equivalent fractions",
         "loId": "P3:FRACTIONS:2.1.1"
     },
@@ -94,6 +107,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Equivalent fractions",
+        "ref": "2.1.2",
         "learningOutcome": "expressing a fraction in its simplest form",
         "loId": "P3:FRACTIONS:2.1.2"
     },
@@ -101,6 +115,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Equivalent fractions",
+        "ref": "2.1.3",
         "learningOutcome": "comparing and ordering unlike fractions with denominators of given fractions not exceeding 12",
         "loId": "P3:FRACTIONS:2.1.3"
     },
@@ -108,6 +123,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Equivalent fractions",
+        "ref": "2.1.4",
         "learningOutcome": "writing the equivalent fraction of a fraction given the denominator or the numerator",
         "loId": "P3:FRACTIONS:2.1.4"
     },
@@ -115,6 +131,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Addition and Subtraction",
+        "ref": "2.2.1",
         "learningOutcome": "adding and subtracting two related fractions within one whole with denominators of given fractions not exceeding 12",
         "loId": "P3:FRACTIONS:2.2.1"
     },
@@ -122,6 +139,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "MONEY",
         "topic": "Money",
+        "ref": "3.1.1",
         "learningOutcome": "adding and subtracting money in decimal notation",
         "loId": "P3:MONEY:3.1.1"
     },
@@ -129,6 +147,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Length, Mass and Volume",
+        "ref": "4.1.1",
         "learningOutcome": "measuring \u2022 length in kilometres (km) \u2022 volume of liquid in millilitres (ml)",
         "loId": "P3:MEASUREMENT:4.1.1"
     },
@@ -136,6 +155,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Length, Mass and Volume",
+        "ref": "4.1.2",
         "learningOutcome": "measuring length/mass/volume (of liquid) in compound units",
         "loId": "P3:MEASUREMENT:4.1.2"
     },
@@ -143,6 +163,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Length, Mass and Volume",
+        "ref": "4.1.3",
         "learningOutcome": "converting a measurement in compound units to the smaller unit, and vice versa \u2022 kilometres and metres \u2022 metres and centimetres \u2022 kilograms and grams \u2022 litres and millilitres (numbers involved should be within easy manipulation)",
         "loId": "P3:MEASUREMENT:4.1.3"
     },
@@ -150,6 +171,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Time",
+        "ref": "4.2.1",
         "learningOutcome": "measuring time in seconds",
         "loId": "P3:MEASUREMENT:4.2.1"
     },
@@ -157,6 +179,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Time",
+        "ref": "4.2.2",
         "learningOutcome": "finding the starting time, finishing time or duration given the other two quantities",
         "loId": "P3:MEASUREMENT:4.2.2"
     },
@@ -164,6 +187,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "MEASUREMENT",
         "topic": "Time",
+        "ref": "4.2.3",
         "learningOutcome": "24-hour clock",
         "loId": "P3:MEASUREMENT:4.2.3"
     },
@@ -171,6 +195,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "5.1.1",
         "learningOutcome": "concepts of area and perimeter of a plane figure",
         "loId": "P3:AREA AND VOLUME:5.1.1"
     },
@@ -178,6 +203,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "5.1.2",
         "learningOutcome": "measuring area in square units, cm2 and m2, excluding conversion between cm2 and m2",
         "loId": "P3:AREA AND VOLUME:5.1.2"
     },
@@ -185,6 +211,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "5.1.3",
         "learningOutcome": "perimeter of \u2022 rectilinear figure \u2022 rectangle \u2022 square",
         "loId": "P3:AREA AND VOLUME:5.1.3"
     },
@@ -192,6 +219,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "5.1.4",
         "learningOutcome": "area of rectangle/square",
         "loId": "P3:AREA AND VOLUME:5.1.4"
     },
@@ -199,6 +227,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Angles",
+        "ref": "6.1.1",
         "learningOutcome": "concepts of angle",
         "loId": "P3:GEOMETRY:6.1.1"
     },
@@ -206,6 +235,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Angles",
+        "ref": "6.1.2",
         "learningOutcome": "right angles, angles greater than/smaller than a right angle",
         "loId": "P3:GEOMETRY:6.1.2"
     },
@@ -213,6 +243,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Perpendicular and Parallel Lines",
+        "ref": "6.2.1",
         "learningOutcome": "perpendicular and parallel lines",
         "loId": "P3:GEOMETRY:6.2.1"
     },
@@ -220,6 +251,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Perpendicular and Parallel Lines",
+        "ref": "6.2.2",
         "learningOutcome": "drawing perpendicular and parallel lines",
         "loId": "P3:GEOMETRY:6.2.2"
     },
@@ -227,6 +259,7 @@
         "strand": "STATISTICS",
         "subStrand": "DATA REPRESENTATION AND INTERPRETATION",
         "topic": "Bar Graphs",
+        "ref": "7.1.1",
         "learningOutcome": "reading and interpreting data from bar graphs",
         "loId": "P3:DATA REPRESENTATION AND INTERPRETATION:7.1.1"
     },
@@ -234,6 +267,7 @@
         "strand": "STATISTICS",
         "subStrand": "DATA REPRESENTATION AND INTERPRETATION",
         "topic": "Bar Graphs",
+        "ref": "7.1.2",
         "learningOutcome": "using different scales on axis",
         "loId": "P3:DATA REPRESENTATION AND INTERPRETATION:7.1.2"
     },
@@ -241,6 +275,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.1",
         "learningOutcome": "number notation, representations and place values (ten thousands, thousands, hundreds, tens, ones)",
         "loId": "P4:WHOLE NUMBERS:1.1.1"
     },
@@ -248,6 +283,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.2",
         "learningOutcome": "reading and writing numbers in numerals and in words",
         "loId": "P4:WHOLE NUMBERS:1.1.2"
     },
@@ -255,6 +291,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.3",
         "learningOutcome": "comparing and ordering numbers",
         "loId": "P4:WHOLE NUMBERS:1.1.3"
     },
@@ -262,6 +299,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.4",
         "learningOutcome": "patterns in number sequences",
         "loId": "P4:WHOLE NUMBERS:1.1.4"
     },
@@ -269,6 +307,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.5",
         "learningOutcome": "rounding numbers to the nearest 10, 100 or 1000",
         "loId": "P4:WHOLE NUMBERS:1.1.5"
     },
@@ -276,6 +315,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Numbers up to 100 000",
+        "ref": "1.1.6",
         "learningOutcome": "use of \u2248",
         "loId": "P4:WHOLE NUMBERS:1.1.6"
     },
@@ -283,6 +323,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Factors and Multiples",
+        "ref": "1.2.1",
         "learningOutcome": "factors, multiples and their relationship",
         "loId": "P4:WHOLE NUMBERS:1.2.1"
     },
@@ -290,6 +331,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Factors and Multiples",
+        "ref": "1.2.2",
         "learningOutcome": "determining if a 1-digit number is a factor of a given number within 100",
         "loId": "P4:WHOLE NUMBERS:1.2.2"
     },
@@ -297,6 +339,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Factors and Multiples",
+        "ref": "1.2.3",
         "learningOutcome": "finding the common factors of two given numbers",
         "loId": "P4:WHOLE NUMBERS:1.2.3"
     },
@@ -304,6 +347,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Factors and Multiples",
+        "ref": "1.2.4",
         "learningOutcome": "determining if a number is a multiple of a given 1-digit number",
         "loId": "P4:WHOLE NUMBERS:1.2.4"
     },
@@ -311,6 +355,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Factors and Multiples",
+        "ref": "1.2.5",
         "learningOutcome": "finding the common multiples of two given 1-digit numbers",
         "loId": "P4:WHOLE NUMBERS:1.2.5"
     },
@@ -318,13 +363,15 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Four Operations",
-        "learningOutcome": "multiplication algorithm:  \u2022 up to 4 digits by 1 digit  \u2022 up to 3 digits by 2 digits",
+        "ref": "1.3.1",
+        "learningOutcome": "multiplication algorithm: \u2022 up to 4 digits by 1 digit \u2022 up to 3 digits by 2 digits",
         "loId": "P4:WHOLE NUMBERS:1.3.1"
     },
     {
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "WHOLE NUMBERS",
         "topic": "Four Operations",
+        "ref": "1.3.2",
         "learningOutcome": "division algorithm (up to 4 digits by 1 digit)",
         "loId": "P4:WHOLE NUMBERS:1.3.2"
     },
@@ -332,6 +379,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Mixed Numbers and Improper Fractions",
+        "ref": "2.1.1",
         "learningOutcome": "mixed numbers, improper fractions and their relationship",
         "loId": "P4:FRACTIONS:2.1.1"
     },
@@ -339,6 +387,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Fraction of a Set",
+        "ref": "2.2.1",
         "learningOutcome": "fraction as part of a set",
         "loId": "P4:FRACTIONS:2.2.1"
     },
@@ -346,6 +395,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "FRACTIONS",
         "topic": "Addition and Subtraction",
+        "ref": "2.3.1",
         "learningOutcome": "adding and subtracting fractions with denominators of given fractions not exceeding 12 and not more than two different denominators",
         "loId": "P4:FRACTIONS:2.3.1"
     },
@@ -353,6 +403,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Decimals up to 3 decimal places",
+        "ref": "3.1.1",
         "learningOutcome": "notation and place values (tenths, hundredths, thousandths)",
         "loId": "P4:DECIMALS:3.1.1"
     },
@@ -360,6 +411,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Decimals up to 3 decimal places",
+        "ref": "3.1.2",
         "learningOutcome": "comparing and ordering decimals",
         "loId": "P4:DECIMALS:3.1.2"
     },
@@ -367,6 +419,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Decimals up to 3 decimal places",
+        "ref": "3.1.3",
         "learningOutcome": "expressing decimals as fractions",
         "loId": "P4:DECIMALS:3.1.3"
     },
@@ -374,6 +427,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Decimals up to 3 decimal places",
+        "ref": "3.1.4",
         "learningOutcome": "expressing fractions as decimals when the denominator is a factor of 10 or 100",
         "loId": "P4:DECIMALS:3.1.4"
     },
@@ -381,13 +435,15 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Decimals up to 3 decimal places",
-        "learningOutcome": "rounding decimals to   \u2022 the nearest whole number  \u2022 1 decimal place  \u2022 2 decimal places",
+        "ref": "3.1.5",
+        "learningOutcome": "rounding decimals to \u2022 the nearest whole number \u2022 1 decimal place \u2022 2 decimal places",
         "loId": "P4:DECIMALS:3.1.5"
     },
     {
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Addition and Subtraction",
+        "ref": "3.2.1",
         "learningOutcome": "adding and subtracting decimals (up to 2 decimal places)",
         "loId": "P4:DECIMALS:3.2.1"
     },
@@ -395,6 +451,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Multiplication and Division",
+        "ref": "3.3.1",
         "learningOutcome": "multiplying and dividing decimals (up to 2 decimal places) by a 1-digit whole number",
         "loId": "P4:DECIMALS:3.3.1"
     },
@@ -402,6 +459,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Multiplication and Division",
+        "ref": "3.3.2",
         "learningOutcome": "dividing a whole number by a whole number with quotient as a decimal",
         "loId": "P4:DECIMALS:3.3.2"
     },
@@ -409,6 +467,7 @@
         "strand": "NUMBER AND ALGEBRA",
         "subStrand": "DECIMALS",
         "topic": "Multiplication and Division",
+        "ref": "3.3.3",
         "learningOutcome": "rounding answers to a specified degree of accuracy",
         "loId": "P4:DECIMALS:3.3.3"
     },
@@ -416,6 +475,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "4.1.1",
         "learningOutcome": "finding one dimension of a rectangle given the other dimension and its area/perimeter",
         "loId": "P4:AREA AND VOLUME:4.1.1"
     },
@@ -423,6 +483,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "4.1.2",
         "learningOutcome": "finding the length of one side of a square given its area/perimeter",
         "loId": "P4:AREA AND VOLUME:4.1.2"
     },
@@ -430,6 +491,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "AREA AND VOLUME",
         "topic": "Area and Perimeter",
+        "ref": "4.1.3",
         "learningOutcome": "finding the area and perimeter of composite figures made up of rectangles and squares",
         "loId": "P4:AREA AND VOLUME:4.1.3"
     },
@@ -437,6 +499,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Angles",
+        "ref": "5.1.1",
         "learningOutcome": "using notation such as \u2220ABC and \u2220a to name angles",
         "loId": "P4:GEOMETRY:5.1.1"
     },
@@ -444,6 +507,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Angles",
+        "ref": "5.1.2",
         "learningOutcome": "measuring angles in degrees",
         "loId": "P4:GEOMETRY:5.1.2"
     },
@@ -451,6 +515,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Angles",
+        "ref": "5.1.3",
         "learningOutcome": "drawing an angle of given size",
         "loId": "P4:GEOMETRY:5.1.3"
     },
@@ -458,6 +523,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Rectangle and Square",
+        "ref": "5.2.1",
         "learningOutcome": "properties of rectangle and square, excluding diagonal properties",
         "loId": "P4:GEOMETRY:5.2.1"
     },
@@ -465,6 +531,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Rectangle and Square",
+        "ref": "5.2.2",
         "learningOutcome": "drawing rectangles and squares",
         "loId": "P4:GEOMETRY:5.2.2"
     },
@@ -472,6 +539,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Line Symmetry",
+        "ref": "5.3.1",
         "learningOutcome": "identifying symmetric figures",
         "loId": "P4:GEOMETRY:5.3.1"
     },
@@ -479,6 +547,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Line Symmetry",
+        "ref": "5.3.2",
         "learningOutcome": "determining whether a straight line is a line of symmetry of a symmetric figure",
         "loId": "P4:GEOMETRY:5.3.2"
     },
@@ -486,6 +555,7 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Line Symmetry",
+        "ref": "5.3.3",
         "learningOutcome": "completing a symmetric figure with respect to a given line of symmetry on square grid",
         "loId": "P4:GEOMETRY:5.3.3"
     },
@@ -493,27 +563,31 @@
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Nets",
-        "learningOutcome": "identifying 2D representations of  \u2022 cube \u2022 cuboid \u2022 cone \u2022 cylinder \u2022 prism \u2022 pyramid",
+        "ref": "5.4.1",
+        "learningOutcome": "identifying 2D representations of \u2022 cube \u2022 cuboid \u2022 cone \u2022 cylinder \u2022 prism \u2022 pyramid",
         "loId": "P4:GEOMETRY:5.4.1"
     },
     {
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Nets",
-        "learningOutcome": "drawing 2D representations of  \u2022 cube \u2022 cuboid \u2022 prism \u2022 pyramid",
+        "ref": "5.4.2",
+        "learningOutcome": "drawing 2D representations of \u2022 cube \u2022 cuboid \u2022 prism \u2022 pyramid",
         "loId": "P4:GEOMETRY:5.4.2"
     },
     {
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Nets",
-        "learningOutcome": "identifying the nets of 3D solids  \u2022 cube \u2022 cuboid \u2022 prism \u2022 pyramid",
+        "ref": "5.4.3",
+        "learningOutcome": "identifying the nets of 3D solids \u2022 cube \u2022 cuboid \u2022 prism \u2022 pyramid",
         "loId": "P4:GEOMETRY:5.4.3"
     },
     {
         "strand": "MEASUREMENT AND GEOMETRY",
         "subStrand": "GEOMETRY",
         "topic": "Nets",
+        "ref": "5.4.4",
         "learningOutcome": "identifying the solid which can be formed by a given net",
         "loId": "P4:GEOMETRY:5.4.4"
     },
@@ -521,6 +595,7 @@
         "strand": "STATISTICS",
         "subStrand": "DATA REPRESENTATION AND INTERPRETATION",
         "topic": "Tables and Line Graphs",
+        "ref": "6.1.1",
         "learningOutcome": "completing a table/line graph from given data",
         "loId": "P4:DATA REPRESENTATION AND INTERPRETATION:6.1.1"
     },
@@ -528,6 +603,7 @@
         "strand": "STATISTICS",
         "subStrand": "DATA REPRESENTATION AND INTERPRETATION",
         "topic": "Tables and Line Graphs",
+        "ref": "6.1.2",
         "learningOutcome": "reading and interpreting data from a table/line graph",
         "loId": "P4:DATA REPRESENTATION AND INTERPRETATION:6.1.2"
     }
